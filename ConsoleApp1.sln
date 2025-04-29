@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplicar", "multiplicar\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numeroprimo", "numeroprimo\numeroprimo.csproj", "{1D38E60E-FE1A-43FF-B405-F972B0A42A77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imprimir_impar", "imprimir_impar\imprimir_impar.csproj", "{7B6D05D6-DD65-49B8-8B8A-A244E666EF48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1D38E60E-FE1A-43FF-B405-F972B0A42A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D38E60E-FE1A-43FF-B405-F972B0A42A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D38E60E-FE1A-43FF-B405-F972B0A42A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6D05D6-DD65-49B8-8B8A-A244E666EF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6D05D6-DD65-49B8-8B8A-A244E666EF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6D05D6-DD65-49B8-8B8A-A244E666EF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6D05D6-DD65-49B8-8B8A-A244E666EF48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
