@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E6AC5530-804B-4E04-BF91-25B6EE0F6BFB}"
 EndProject
@@ -12,6 +12,16 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imprimir_impar", "imprimir_impar\imprimir_impar.csproj", "{7B6D05D6-DD65-49B8-8B8A-A244E666EF48}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cadenassdenumeros", "cadenassdenumeros\cadenassdenumeros.csproj", "{74F9298A-CAAD-41EC-B77D-23D90B54A7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumaenvivo", "sumaenvivo\sumaenvivo.csproj", "{57848CB0-0F4B-4E5B-951A-AA104D96F7ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metososonline", "metososonline\metososonline.csproj", "{377CE741-DB56-487F-AA8A-2B50AD62D06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadora", "calculadora\calculadora.csproj", "{0ED351B9-3CA0-4FC4-8F1C-B7A041EDF49B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imprimir", "imprimir\imprimir.csproj", "{D42830E7-8CA9-4CFF-B679-4A5C696E1285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calelndariob", "calelndariob\calelndariob.csproj", "{855985B5-594A-4053-9D47-2336F4FA3802}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{74F9298A-CAAD-41EC-B77D-23D90B54A7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74F9298A-CAAD-41EC-B77D-23D90B54A7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74F9298A-CAAD-41EC-B77D-23D90B54A7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57848CB0-0F4B-4E5B-951A-AA104D96F7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57848CB0-0F4B-4E5B-951A-AA104D96F7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57848CB0-0F4B-4E5B-951A-AA104D96F7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57848CB0-0F4B-4E5B-951A-AA104D96F7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377CE741-DB56-487F-AA8A-2B50AD62D06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377CE741-DB56-487F-AA8A-2B50AD62D06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377CE741-DB56-487F-AA8A-2B50AD62D06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377CE741-DB56-487F-AA8A-2B50AD62D06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED351B9-3CA0-4FC4-8F1C-B7A041EDF49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED351B9-3CA0-4FC4-8F1C-B7A041EDF49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED351B9-3CA0-4FC4-8F1C-B7A041EDF49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED351B9-3CA0-4FC4-8F1C-B7A041EDF49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42830E7-8CA9-4CFF-B679-4A5C696E1285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42830E7-8CA9-4CFF-B679-4A5C696E1285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42830E7-8CA9-4CFF-B679-4A5C696E1285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42830E7-8CA9-4CFF-B679-4A5C696E1285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855985B5-594A-4053-9D47-2336F4FA3802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855985B5-594A-4053-9D47-2336F4FA3802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855985B5-594A-4053-9D47-2336F4FA3802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855985B5-594A-4053-9D47-2336F4FA3802}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
