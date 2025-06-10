@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imprimir", "imprimir\imprim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calelndariob", "calelndariob\calelndariob.csproj", "{855985B5-594A-4053-9D47-2336F4FA3802}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{A3ADE2D0-829F-4704-8108-92C59916D6B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{BA144054-D3B4-4425-9A29-DA22E3884CCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{855985B5-594A-4053-9D47-2336F4FA3802}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{855985B5-594A-4053-9D47-2336F4FA3802}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{855985B5-594A-4053-9D47-2336F4FA3802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3ADE2D0-829F-4704-8108-92C59916D6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3ADE2D0-829F-4704-8108-92C59916D6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3ADE2D0-829F-4704-8108-92C59916D6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3ADE2D0-829F-4704-8108-92C59916D6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA144054-D3B4-4425-9A29-DA22E3884CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA144054-D3B4-4425-9A29-DA22E3884CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA144054-D3B4-4425-9A29-DA22E3884CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA144054-D3B4-4425-9A29-DA22E3884CCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
